@@ -1,7 +1,16 @@
+/*
+
+* * * * * * 
+* * * * *   
+* * * *     
+* * *       
+* *         
+* 
+
+*/
+
 #include <stdio.h>
 
-// 6 in y
-// 6 in x max
 
 int main()
 {

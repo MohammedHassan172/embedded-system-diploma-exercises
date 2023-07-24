@@ -1,3 +1,24 @@
+/*
+
+Right Arrow
+   *      
+    *     
+     *    
+*******   
+     *    
+    *     
+   *      
+Left Arrow
+   *
+  *
+ *
+*******
+ *
+  *
+   *
+
+*/
+
 #include <stdio.h>
 
 int main()
